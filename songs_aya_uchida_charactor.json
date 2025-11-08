@@ -1,0 +1,1297 @@
+[
+  {
+    "id": "kga_0001",
+    "title": "ぽきゅぽきゅーんッと行きましょう！",
+    "genres": ["KIDDY GiRL-AND"],
+    "info": ["アスクール"],
+    "release": "2010",
+    "favorite": false
+  },
+  {
+    "id": "kga_0002",
+    "title": "未来ヒストリー",
+    "genres": ["KIDDY GiRL-AND"],
+    "info": ["アスクール"],
+    "release": "2010",
+    "favorite": false
+  },
+  {
+    "id": "kga_0003",
+    "title": "baby universe day",
+    "genres": ["KIDDY GiRL-AND"],
+    "info": ["アスクール", "ク・フィーユ"],
+    "release": "2010",
+    "favorite": false
+  },
+  {
+    "id": "kga_0004",
+    "title": "day×day",
+    "genres": ["KIDDY GiRL-AND"],
+    "info": ["アスクール", "ク・フィーユ"],
+    "release": "2010",
+    "favorite": false
+  },
+  {
+    "id": "kga_0005",
+    "title": "かぼちゃプリンのうた",
+    "genres": ["KIDDY GiRL-AND"],
+    "info": ["アスクール"],
+    "release": "2010",
+    "favorite": false
+  },
+  {
+    "id": "kga_0006",
+    "title": "太陽と月（アスクールver.）",
+    "genres": ["KIDDY GiRL-AND"],
+    "info": ["アスクール"],
+    "release": "2009",
+    "favorite": false
+  },
+  {
+    "id": "kga_0007",
+    "title": "うたを歌おう♪",
+    "genres": ["KIDDY GiRL-AND"],
+    "info": ["アスクール", "ク・フィーユ", "ディア"],
+    "release": "2009",
+    "favorite": false
+  },
+  {
+    "id": "kga_0008",
+    "title": "Growing UP!",
+    "genres": ["KIDDY GiRL-AND"],
+    "info": ["アスクール"],
+    "release": "2009",
+    "favorite": false
+  },
+  {
+    "id": "rk_0001",
+    "title": "チョベリバ・コギャル・ナイト",
+    "genres": ["レーカン！"],
+    "info": ["コギャル霊"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "kf_0001",
+    "title": "ようこそジャパリパークへ",
+    "genres": ["けものフレンズ"],
+    "info": ["かばん", "どうぶつビスケッツ", "PPP"],
+    "release": "2017",
+    "favorite": false
+  },
+  {
+    "id": "kf_0002",
+    "title": "けものパレード 〜ジャパリパークメモリアル〜",
+    "genres": ["けものフレンズ"],
+    "info": ["かばん", "どうぶつビスケッツ", "PPP"],
+    "release": "2017",
+    "favorite": false
+  },
+  {
+    "id": "kf_0003",
+    "title": "ドレミファロンド (フレンズ ver.)",
+    "genres": ["けものフレンズ"],
+    "info": ["かばん", "どうぶつビスケッツ", "PPP"],
+    "release": "2017",
+    "favorite": false
+  },
+  {
+    "id": "kf_0004",
+    "title": "なかよしマーチ",
+    "genres": ["けものフレンズ"],
+    "info": ["かばん", "サーバル",  "フェネック"],
+    "release": "2017",
+    "favorite": false
+  },
+  {
+    "id": "kf_0005",
+    "title": "だーよだーよマンボ",
+    "genres": ["けものフレンズ"],
+    "info": ["アミーゴビースト"],
+    "release": "2019",
+    "favorite": false
+  },
+  {
+    "id": "kf_0006",
+    "title": "ぼくのフレンド",
+    "genres": ["けものフレンズ"],
+    "info": ["かばん", "サーバル",  "フェネック"],
+    "release": "2019",
+    "favorite": false
+  },
+  {
+    "id": "kf_0007",
+    "title": "きみのままで",
+    "genres": ["けものフレンズ"],
+    "info": ["かばん"],
+    "release": "2017",
+    "favorite": false
+  },
+  {
+    "id": "cc_0001",
+    "title": "Three Hearts",
+    "genres": ["チェインクロニクル"],
+    "info": ["リヒト","ハンフ","ファルベ"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "cc_0002",
+    "title": "愛、花のように",
+    "genres": ["チェインクロニクル"],
+    "info": ["ファルベ"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "cc_0003",
+    "title": "OPEN YOUR CHRONICLE",
+    "genres": ["チェインクロニクル"],
+    "info": ["ファルベ"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "cc_0004",
+    "title": "SUKI SUKI REAL",
+    "genres": ["チェインクロニクル"],
+    "info": ["マレーナ"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "cc_0005",
+    "title": "信じ合う絆",
+    "genres": ["チェインクロニクル"],
+    "info": ["マリナ"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "cc_0006",
+    "title": "CHAIN! ～義勇軍のテーマ～",
+    "genres": ["チェインクロニクル"],
+    "info": ["ファルベ"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "cc_0007",
+    "title": "ホメホメワンダホー",
+    "genres": ["チェインクロニクル"],
+    "info": ["テリリア"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "imr_0001",
+    "title": "Marine Dreamin’",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "imr_0002",
+    "title": "Dive to Blue",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン"],
+    "release": "2016",
+    "favorite": false
+  },
+  {
+    "id": "imr_0003",
+    "title": "DEEP BLUE TOWNへおいでよ",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン"],
+    "release": "2016",
+    "favorite": false
+  },
+  {
+    "id": "imr_0004",
+    "title": "Sunny Days!",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン"],
+    "release": "2017",
+    "favorite": false
+  },
+  {
+    "id": "imr_0005",
+    "title": "Deep Blue Song",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン"],
+    "release": "2019",
+    "favorite": false
+  },
+  {
+    "id": "imr_0006",
+    "title": "Marine Mirage",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン"],
+    "release": "2020",
+    "favorite": false
+  },
+  {
+    "id": "imr_0007",
+    "title": "Frustration",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン"],
+    "release": "2022",
+    "favorite": false
+  },
+  {
+    "id": "imr_0008",
+    "title": "爽快奪回Sunlight",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン"],
+    "release": "2022",
+    "favorite": false
+  },
+  {
+    "id": "imr_0009",
+    "title": "ダンシング・クレイジー",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン"],
+    "release": "2022",
+    "favorite": false
+  },
+  {
+    "id": "imr_0010",
+    "title": "Wave the Remember",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン"],
+    "release": "2023",
+    "favorite": false
+  },
+  {
+    "id": "imr_0011",
+    "title": "The Boon!",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン"],
+    "release": "2023",
+    "favorite": false
+  },
+  {
+    "id": "imr_0012",
+    "title": "Go Wave!",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン"],
+    "release": "2023",
+    "favorite": false
+  },
+  {
+    "id": "imr_0013",
+    "title": "千本桜（アイマリンver.）",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "imr_0014",
+    "title": "M.A.D.",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン","イサナ"],
+    "release": "2025",
+    "favorite": false
+  },
+  {
+    "id": "imr_0015",
+    "title": "Stand up! Blaze up!",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン"],
+    "release": "2023",
+    "favorite": false
+  },
+  {
+    "id": "imr_0015",
+    "title": "Sea Breeze",
+    "genres": ["iMarine Project"],
+    "info": ["アイマリン"],
+    "release": "2018",
+    "favorite": false
+  },
+  {
+    "id": "md_0001",
+    "title": "TA・BE・GO・RO@ガール!",
+    "genres": ["ミリオンドール"],
+    "info": ["鎌倉ひなみ"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "sw_0001",
+    "title": "笑顔のランデヴー",
+    "genres": ["ストライクウィッチーズ"],
+    "info": ["服部静夏"],
+    "release": "2010",
+    "favorite": false
+  },
+  {
+    "id": "sw_0002",
+    "title": "Eternal Bonds",
+    "genres": ["ストライクウィッチーズ"],
+    "info": ["服部静夏"],
+    "release": "2010",
+    "favorite": false
+  },
+  {
+    "id": "sw_0003",
+    "title": "Endless Sky",
+    "genres": ["ストライクウィッチーズ"],
+    "info": ["服部静夏"],
+    "release": "2011",
+    "favorite": false
+  },
+  {
+    "id": "sw_0004",
+    "title": "Over Sky",
+    "genres": ["ストライクウィッチーズ"],
+    "info": ["服部静夏"],
+    "release": "2012",
+    "favorite": false
+  },
+  {
+    "id": "sw_0005",
+    "title": "君の翼に憧れて",
+    "genres": ["ストライクウィッチーズ"],
+    "info": ["服部静夏"],
+    "release": "2012",
+    "favorite": false
+  },
+  {
+    "id": "sw_0006",
+    "title": "Treasure of life",
+    "genres": ["ストライクウィッチーズ"],
+    "info": ["服部静夏"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "sw_0007",
+    "title": "晴色スタートライン",
+    "genres": ["ストライクウィッチーズ"],
+    "info": ["服部静夏"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "sw_0008",
+    "title": "Fly up so high",
+    "genres": ["ストライクウィッチーズ"],
+    "info": ["服部静夏"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "sw_0009",
+    "title": "ブックマーク ア・ヘッド",
+    "genres": ["ストライクウィッチーズ"],
+    "info": ["服部静夏"],
+    "release": "2008",
+    "favorite": false
+  },
+  {
+    "id": "sw_0010",
+    "title": "約束の空へ～私のいた場所～",
+    "genres": ["ストライクウィッチーズ"],
+    "info": ["服部静夏"],
+    "release": "2012",
+    "favorite": false
+  },
+  {
+    "id": "sw_0011",
+    "title": "Resonance ～with heart～",
+    "genres": ["ストライクウィッチーズ"],
+    "info": ["服部静夏"],
+    "release": "2012",
+    "favorite": false
+  },
+  {
+    "id": "mtd_0001",
+    "title": "もう絶対 I ♡ YOU",
+    "genres": ["みつどもえ"],
+    "info": ["佐藤が好きでしょうがない隊"],
+    "release": "2010",
+    "favorite": false
+  },
+  {
+    "id": "mtd_0002",
+    "title": "佐藤くんが好きでしょうがない隊",
+    "genres": ["みつどもえ"],
+    "info": ["佐藤が好きでしょうがない隊"],
+    "release": "2010",
+    "favorite": false
+  },
+  {
+    "id": "vdo_0001",
+    "title": "Stray Sheep Story",
+    "genres": ["ビビッドレッド・オペレーション"],
+    "info": ["四宮ひまわり"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "vdo_0002",
+    "title": "maelstrom",
+    "genres": ["ビビッドレッド・オペレーション"],
+    "info": ["四宮ひまわり"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "vdo_0003",
+    "title": "Vivid Shining Sky",
+    "genres": ["ビビッドレッド・オペレーション"],
+    "info": ["四宮ひまわり"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "vdo_0004",
+    "title": "Let's be together!!",
+    "genres": ["ビビッドレッド・オペレーション"],
+    "info": ["四宮ひまわり"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ts_0001",
+    "title": "BEAUTIFUL≒SENTENCE",
+    "genres": ["トリニティセブン"],
+    "info": ["神無月アリン"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ts_0002",
+    "title": "Reflective φ Emotion",
+    "genres": ["トリニティセブン"],
+    "info": ["神無月アリン"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "rts_0001",
+    "title": "ノーベル賞はいりません",
+    "genres": ["RELEASE THE SPYCE"],
+    "info": ["青葉初芽"],
+    "release": "2018",
+    "favorite": false
+  },
+  {
+    "id": "rts_0002",
+    "title": "スパッと！スパイ&スパイス",
+    "genres": ["RELEASE THE SPYCE"],
+    "info": ["青葉初芽"],
+    "release": "2018",
+    "favorite": false
+  },
+  {
+    "id": "rts_0003",
+    "title": "Hide & Seek",
+    "genres": ["RELEASE THE SPYCE"],
+    "info": ["青葉初芽"],
+    "release": "2018",
+    "favorite": false
+  },
+  {
+    "id": "gbf_0001",
+    "title": "DREAMY PARTY TIME",
+    "genres": ["グランブルーファンタジー"],
+    "info": ["アンチラ"],
+    "release": "2024",
+    "favorite": false
+  },
+  {
+    "id": "tb_0001",
+    "title": "うららかアフタヌーン",
+    "genres": ["となりの吸血鬼さん"],
+    "info": ["青木夕"],
+    "release": "2018",
+    "favorite": false
+  },
+  {
+    "id": "op_0001",
+    "title": "さよならの音",
+    "genres": ["オトノネ。-序章遠くの君へ-"],
+    "info": ["琴都"],
+    "release": "2016",
+    "favorite": false
+  },
+  {
+    "id": "op_0002",
+    "title": "ナノナキシラベ",
+    "genres": ["オトノネ。-序章遠くの君へ-"],
+    "info": ["琴都"],
+    "release": "2016",
+    "favorite": false
+  },
+  {
+  "id": "gm_0001",
+  "title": "SWITCH！",
+  "genres": ["ぐんまちゃん"],
+  "info": ["あおま"],
+  "release": "2021",
+    "favorite": false
+},
+{
+    "id": "jitsuha_0001",
+    "title": "月夜のPersuasion way",
+    "genres": ["実は私は"],
+    "info": ["紫々戸獅穂"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "jitsuha_0002",
+    "title": "Starting Hearts",
+    "genres": ["実は私は"],
+    "info": ["紫々戸獅穂"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "jitsuha_0003",
+    "title": "トロピカルシスターズ",
+    "genres": ["実は私は"],
+    "info": ["紫々戸獅穂"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+  "id": "efs_0001",
+  "title": "みんなDEダイエット",
+  "genres": ["エルフさんは痩せられない。"],
+  "info": ["でも食べ隊"],
+  "release": "2024",
+  "favorite": false
+},
+{
+    "id": "dr_0001",
+    "title": "Progressive -漸進-",
+    "genres": ["ダンガンロンパ"],
+    "info": ["苗木こまる"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+  "id": "gf_0001",
+  "title": "おさんぽDreamin’",
+  "genres": ["ガールフレンド(仮)"],
+  "info": ["長谷川美卯"],
+  "release": "2017",
+    "favorite": false
+},
+{
+  "id": "cg_0001",
+  "title": "Don’t call me a loser",
+  "genres": ["美少女遊戯ユニット クレーンゲール"],
+  "info": ["ヒカル"],
+  "release": "2016",
+    "favorite": false
+},
+{
+    "id": "rl_0001",
+    "title": "小悪魔☆はぁと(仮)",
+    "genres": ["リコーダーとランドセル"],
+  "info": ["ヒナちゃん"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "rl_0002",
+    "title": "未来の私",
+    "genres": ["リコーダーとランドセル"],
+  "info": ["ヒナちゃん"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+  "id": "pm_0001",
+  "title": "Starlight!",
+  "genres": ["ワッチャプリマジ！"],
+  "info": ["弥生ひな"],
+  "release": "2022",
+  "favorite": false
+},
+  {
+    "id": "pm_0002",
+    "title": "ワッチャ！プリーズ！マジック！ –What’s your “Please” Magic?–",
+  "genres": ["ワッチャプリマジ！"],
+  "info": ["弥生ひな"],
+  "release": "2022",
+    "favorite": false
+  },
+  {
+    "id": "pm_0003",
+    "title": "天頂のコンフィアンサ",
+  "genres": ["ワッチャプリマジ！"],
+  "info": ["弥生ひな"],
+  "release": "2022",
+    "favorite": false
+  },
+  {
+    "id": "mm_0001",
+    "title": "Ⅺ. THE JUSTICE",
+  "genres": ["メメントモリ"],
+  "info": ["パラデア"],
+  "release": "2024",
+    "favorite": false
+  },
+  {
+  "id": "zxcr_0001",
+  "title": "ガール・ミーツ・ガール",
+  "genres": ["Z/X Code reunion"],
+  "info": ["リゲル"],
+  "release": "2020",
+  "favorite": false
+},
+{
+  "id": "zxcr_0002",
+  "title": "ふたりの世界を探しにいこう",
+  "genres": ["Z/X Code reunion"],
+  "info": ["リゲル"],
+  "release": "2020",
+  "favorite": false
+},
+{
+  "id": "pp_0001",
+  "title": "風船飛行",
+  "genres": ["ポプテピピック"],
+  "info": ["ピピ美"],
+  "release": "2020",
+  "favorite": false
+},
+{
+  "id": "rrf_0001",
+  "title": "フラワーフェアリルズ",
+  "genres": ["リルリルフェアリル"],
+  "info": ["フラワーフェアリルズ"],
+  "release": "2016",
+  "favorite": false
+},
+{
+  "id": "rrf_0002",
+  "title": "りるりるわんだふるがーる!",
+  "genres": ["リルリルフェアリル"],
+  "info": ["フラワーフェアリルズ"],
+  "release": "2016",
+  "favorite": false
+},
+  {
+    "id": "ami_0001",
+    "title": "ギリギリ最強あいまいみー!",
+    "genres": ["あいまいみー"],
+  "info": ["愛","麻衣","ミイ"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ami_0002",
+    "title": "全力炸裂あいまいみー!!",
+    "genres": ["あいまいみー"],
+  "info": ["愛","麻衣","ミイ"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ami_0003",
+    "title": "百華流麗",
+    "genres": ["あいまいみー"],
+  "info": ["愛","麻衣","ミイ"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ami_0004",
+    "title": "ねぇ ミイちゃん",
+    "genres": ["あいまいみー"],
+  "info": ["麻衣"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ami_0005",
+    "title": "全員集合、あいまいみー!!!",
+    "genres": ["あいまいみー"],
+  "info": ["愛","麻衣","ミイ"],
+    "release": "2017",
+    "favorite": false
+  },
+  {
+    "id": "ami_0006",
+    "title": "ラッキーチャンスを逃がさないで",
+    "genres": ["あいまいみー"],
+  "info": ["愛","麻衣","ミイ"],
+    "release": "2017",
+    "favorite": false
+  },
+  {
+    "id": "ami_0007",
+    "title": "涙のホライズン",
+    "genres": ["あいまいみー"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ami_0008",
+    "title": "まいまい伝説~飛翔編~",
+    "genres": ["あいまいみー"],
+  "info": ["麻衣"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "nk_0001",
+    "title": "はじまりは隣の席でした",
+    "genres": ["にゅるにゅる!!KAKUSENくん"],
+  "info": ["にゅるズ"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "ll_0001",
+    "title": "僕らのLIVE 君とのLIFE",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2010",
+    "favorite": false
+  },
+  {
+    "id": "ll_0002",
+    "title": "友情ノーチェンジ",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2010",
+    "favorite": false
+  },
+  {
+    "id": "ll_0003",
+    "title": "Snow halation",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2010",
+    "favorite": false
+  },
+  {
+    "id": "ll_0004",
+    "title": "baby maybe 恋のボタン",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2010",
+    "favorite": false
+  },
+  {
+    "id": "ll_0005",
+    "title": "Love marginal",
+    "genres": ["Printemps"],
+    "info": ["Printemps"],
+    "release": "2011",
+    "favorite": false
+  },
+  {
+    "id": "ll_0006",
+    "title": "sweet&sweet holiday",
+    "genres": ["Printemps"],
+    "info": ["Printemps"],
+    "release": "2011",
+    "favorite": false
+  },
+  {
+    "id": "ll_0007",
+    "title": "夏色えがおで1,2,Jump!",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2011",
+    "favorite": false
+  },
+  {
+    "id": "ll_0008",
+    "title": "Mermaid festa vol.1",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2011",
+    "favorite": false
+  },
+  {
+    "id": "ll_0009",
+    "title": "スピカテリブル",
+    "genres": ["南ことりソロ"],
+    "info": ["南ことり"],
+    "release": "2011",
+    "favorite": false
+  },
+  {
+    "id": "ll_0010",
+    "title": "もぎゅっと“love”で接近中！",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2012",
+    "favorite": false
+  },
+  {
+    "id": "ll_0011",
+    "title": "愛してるばんざーい！",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2012",
+    "favorite": false
+  },
+  {
+    "id": "ll_0012",
+    "title": "告白日和、です！",
+    "genres": ["南ことり 特殊ユニット"],
+    "info": ["南ことり, 小泉花陽"],
+    "release": "2012",
+    "favorite": false
+  },
+  {
+    "id": "ll_0013",
+    "title": "ぶる～べりぃ♡とれいん",
+    "genres": ["南ことりソロ"],
+    "info": ["南ことり"],
+    "release": "2012",
+    "favorite": false
+  },
+  {
+    "id": "ll_0014",
+    "title": "Wonderful Rush",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2012",
+    "favorite": false
+  },
+  {
+    "id": "ll_0015",
+    "title": "Oh,Love＆Peace!",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2012",
+    "favorite": false
+  },
+  {
+    "id": "ll_0016",
+    "title": "僕らは今のなかで",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0017",
+    "title": "WILD STARS",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0018",
+    "title": "きっと青春が聞こえる",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0019",
+    "title": "輝夜の城で踊りたい",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0020",
+    "title": "ススメ→トゥモロウ",
+    "genres": ["南ことり 特殊ユニット"],
+    "info": ["高坂穂乃果, 南ことり, 園田海未"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0021",
+    "title": "START:DASH!!",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0022",
+    "title": "これからのSomeday",
+    "genres": ["南ことり 特殊ユニット"],
+    "info": ["高坂穂乃果, 南ことり, 園田海未, 星空 凛, 西木野真姫, 小泉花陽, 矢澤にこ"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0023",
+    "title": "Wonder zone",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0024",
+    "title": "No brand girls",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0025",
+    "title": "Anemone heart",
+    "genres": ["南ことり 特殊ユニット"],
+    "info": ["南ことり, 園田海未"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0026",
+    "title": "Pure girls project",
+    "genres": ["Printemps"],
+    "info": ["Printemps"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0027",
+    "title": "UNBALANCED LOVE",
+    "genres": ["Printemps"],
+    "info": ["Printemps"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0028",
+    "title": "LONELIEST BABY",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0029",
+    "title": "ぷわぷわーお!",
+    "genres": ["Printemps"],
+    "info": ["Printemps"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0030",
+    "title": "Music S.T.A.R.T!!",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0031",
+    "title": "LOVELESS WORLD",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2013",
+    "favorite": false
+  },
+  {
+    "id": "ll_0032",
+    "title": "タカラモノズ",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0033",
+    "title": "Paradise Live",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0034",
+    "title": "ENDLESS PARADE",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0035",
+    "title": "それは僕たちの奇跡",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0036",
+    "title": "だってだって噫無情",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0037",
+    "title": "どんなときもずっと",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0038",
+    "title": "COLORFUL VOICE",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0039",
+    "title": "ユメノトビラ",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0040",
+    "title": "SENTIMENTAL StepS",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0041",
+    "title": "Dancing stars on me!",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0042",
+    "title": "KiRa-KiRa Sensation!",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0043",
+    "title": "Happy maker!",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0044",
+    "title": "Shangri-La Shower",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0045",
+    "title": "るてしキスキしてる",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0046",
+    "title": "永遠フレンズ",
+    "genres": ["Printemps"],
+    "info": ["Printemps"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0047",
+    "title": "小夜啼鳥恋詩",
+    "genres": ["Printemps"],
+    "info": ["Printemps"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0048",
+    "title": "好きですが好きですか？",
+    "genres": ["南ことり 特殊ユニット"],
+    "info": ["南ことり, 小泉花陽"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0049",
+    "title": "そして最後のページには",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0050",
+    "title": "CheerDay CheerGirl!",
+    "genres": ["Printemps"],
+    "info": ["Printemps"],
+    "release": "2014",
+    "favorite": false
+  },
+  {
+    "id": "ll_0051",
+    "title": "Dreamin' Go! Go!!",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "ll_0052",
+    "title": "ミはμ'sicのミ",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "ll_0053",
+    "title": "Super LOVE=Super LIVE!",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "ll_0054",
+    "title": "MUSEUMでどうしたい？",
+    "genres": ["Printemps"],
+    "info": ["Printemps"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "ll_0055",
+    "title": "Angelic Angel",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "ll_0056",
+    "title": "SUNNY DAY SONG",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "ll_0057",
+    "title": "僕たちはひとつの光",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "ll_0058",
+    "title": "Future style",
+    "genres": ["南ことり 特殊ユニット"],
+    "info": ["高坂穂乃果, 南ことり, 園田海未"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "ll_0059",
+    "title": "HEART to HEART!",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "ll_0060",
+    "title": "嵐のなかの恋だから",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "ll_0061",
+    "title": "WAO-WAO Powerful day!",
+    "genres": ["Printemps"],
+    "info": ["Printemps"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "ll_0062",
+    "title": "NO EXIT ORION",
+    "genres": ["Printemps"],
+    "info": ["Printemps"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "ll_0063",
+    "title": "これから",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2015",
+    "favorite": false
+  },
+  {
+    "id": "ll_0064",
+    "title": "MOMENT RING",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2016",
+    "favorite": false
+  },
+  {
+    "id": "ll_0065",
+    "title": "さようならへさよなら！",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2016",
+    "favorite": false
+  },
+  {
+    "id": "ll_0066",
+    "title": "A song for You! You? You!!",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2020",
+    "favorite": false
+  },
+  {
+    "id": "ll_0067",
+    "title": "なってしまった！",
+    "genres": ["μ's"],
+    "info": ["μ's"],
+    "release": "2020",
+    "favorite": false
+  },
+  {
+    "id": "ll_0068",
+    "title": "夢☆ONCE AGAIN",
+    "genres": ["南ことり"],
+    "info": ["アサギ", "南ことり"],
+    "release": "2020",
+    "favorite": false
+  }
+]

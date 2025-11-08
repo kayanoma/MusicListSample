@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>曲リスト</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>曲リスト</h1>
+
+  <div id="controls">
+    <input type="text" id="filterInput" placeholder="タイトルで検索">
+    <select id="setlistSelect">
+      <option value="">すべてのセット</option>
+    </select>
+    <label><input type="checkbox" id="showFavorites"> お気に入りのみ</label>
+    <select id="genreSelect" multiple></select>
+    <select id="sortOrder">
+      <option value="asc">発売時期：昇順</option>
+      <option value="desc">発売時期：降順</option>
+    </select>
+  </div>
+
+  <div id="songList"></div>
+
+  <div id="shareArea">
+    <button id="shareFavorites">お気に入りリンクを生成</button>
+    <button id="copyLink" style="display:none;">コピー</button>
+    <p id="linkOutput"></p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

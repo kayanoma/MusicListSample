@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+#controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5em;
+  margin-bottom: 1em;
+}
+
+#genreSelect {
+  min-width: 150px;
+  height: 5em;
+}
+
+.song {
+  border-bottom: 1px solid #ddd;
+  padding: 6px 0;
+}
+
+.favBtn {
+  border: none;
+  background: none;
+  font-size: 1.2em;
+  cursor: pointer;
+}
+
+#shareArea {
+  margin-top: 1em;
+}
